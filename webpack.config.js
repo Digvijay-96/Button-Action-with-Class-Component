@@ -1,3 +1,5 @@
+es (36 sloc)  864 Bytes
+
 const path = require("path");
 const HtmlWebpackPlugin= require('html-webpack-plugin');
 module.exports = {
